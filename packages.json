@@ -728,6 +728,13 @@
     "repo": "https://github.com/slamdata/purescript-halogen-css.git",
     "version": "v8.0.0"
   },
+  "halogen-formless": {
+    "dependencies": [
+      "halogen"
+    ],
+    "repo": "https://github.com/thomashoneyman/purescript-halogen-formless.git",
+    "version": "v0.2.0"
+  },
   "halogen-select": {
     "dependencies": [
       "halogen"
